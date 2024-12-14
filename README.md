@@ -1,1 +1,2 @@
 # LSTM-Model
+Long Short-Term Memory (LSTM) models are a type of recurrent neural network (RNN) particularly well-suited for time series forecasting, including applications in solar energy prediction. The unique architecture of LSTMs allows them to capture long-range dependencies in sequential data, making them effective for forecasting solar power generation, which is influenced by various dynamic environmental factors.
